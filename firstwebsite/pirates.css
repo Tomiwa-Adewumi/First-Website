@@ -1,0 +1,45 @@
+body{
+    background-image: url("images/bhg.png");
+    font-family: 'Comic Neue', cursive;
+    color:white;
+    font-size: 18px;
+}
+.mainpage {
+    background-color: cream;
+    border-radius: 3px;
+    min-height: 480px;
+    padding: 24px 36px;
+    position: relative;
+}
+  
+
+     
+       
+     
+
+
+      div.container {
+        text-align: center;
+        border: 5px solid;
+      }
+      
+      .list {
+        display: inline-block;
+        text-align: center;
+      }
+      a:link {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color:white;
+        background-color: transparent;
+        
+      }
+      a:hover {
+        color:gold;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
